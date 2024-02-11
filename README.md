@@ -23,9 +23,11 @@ Sistem E-Parkir adalah aplikasi untuk manajemen parkir yang modern dan efisien. 
 ## Penggunaan
 
 1. Buka aplikasi dan login menggunakan username dan password yang telah ditentukan.
-2. Tambahkan data kendaraan yang masuk ke dalam sistem.
-3. Saat kendaraan keluar, catat waktu keluar dan informasi lainnya.
-4. Aplikasi akan menghasilkan struk parkir sesuai dengan data yang dimasukkan.
+   username : admin
+   password : admim123
+3. Tambahkan data kendaraan yang masuk ke dalam sistem.
+4. Saat kendaraan keluar, catat waktu keluar dan informasi lainnya.
+5. Aplikasi akan menghasilkan struk parkir sesuai dengan data yang dimasukkan.
 
 ## Kontribusi
 
